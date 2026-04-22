@@ -1,5 +1,8 @@
 # IoT Lab - Chapter 4: Raspberry Pi with Python
 
+![GitHub Actions](https://github.com/caophong-git-IoT/IoT-Lab-Chapter4-n23dcci058/actions/workflows/ci.yml/badge.svg)
+![GitLab CI](https://gitlab.com/caophong2025/iot-lab-chapter4-n23dcci058/badges/main/pipeline.svg)
+
 **Họ tên:** Cao Phong
 **MSSV:** n23dcci058
 **Lớp:** d23cqci01-n
@@ -20,5 +23,5 @@
 
 ## CI/CD
 
-- GitHub Actions: xem tab Actions trên GitHub
-- GitLab CI: xem tab CI/CD trên GitLab
+- GitHub Actions: [![GitHub Actions](https://github.com/caophong-git-IoT/IoT-Lab-Chapter4-n23dcci058/actions/workflows/ci.yml/badge.svg)](https://github.com/caophong-git-IoT/IoT-Lab-Chapter4-n23dcci058/actions)
+- GitLab CI: [![GitLab CI](https://gitlab.com/caophong2025/iot-lab-chapter4-n23dcci058/badges/main/pipeline.svg)](https://gitlab.com/caophong2025/iot-lab-chapter4-n23dcci058/-/pipelines)
